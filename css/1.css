@@ -1,12 +1,4 @@
 
-.edit_img{
-    width: 382px;
-    height: 167px;
-}
-.edit_img1{
-    width: 220px;
-    height: 100px;
-}
 .box1 {
     position: relative;
     height: 180px;
@@ -216,3 +208,8 @@
     display:inline-flex
 
 }
+@import url('https://fonts.googleapis.com/css?family=Vollkorn');
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script');
+@import url('https://fonts.googleapis.com/css?family=Comfortaa');
+@import url('https://fonts.googleapis.com/css?family=Baloo');
+

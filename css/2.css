@@ -1,0 +1,87 @@
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+p {
+    margin: 0 0 1rem;
+}
+.q1-aligin-justify{
+    margin: 0 0 20px;
+}
+
+.list--3 li span {
+    margin-left: .75rem;
+}
+.mt--12{
+    width: 200px;
+    vertical-align: middle;
+    position: relative;
+}
+/* .hihi{
+    display: flex;
+}
+.huhu{
+    display: flex;
+}
+.haha{
+    display: flex;
+}
+.hehe{
+    display: flex;
+} */
+.room_suggestion{
+    display: inline-flex;
+}
+.d-inline-flex{
+    display: inline-flex;
+    text-align: center;
+}
+.check-mark {
+    position: absolute;
+    width: 6px;
+    height: 12px;
+    z-index: 3;
+    top: 9px;
+    left: 14px;
+    border: solid #fff;
+    border-width: 0 2px 2px 0;
+    transform: rotate(45deg);
+}
+.rule-process__symbol {
+    position: relative;
+    border-radius: 50%;
+}
+.rule-process__symbol.is-normal:before {
+    width: 10px;
+    height: 10px;
+    background: #fff;
+    border-radius: 50%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    position: absolute;
+    z-index: 1;
+    display: block;
+}
+.rule-process__symbol:before {
+    content: "";
+}
+.d-inline-block_rule-title{
+    display: inline-flex
+}
+.rule_process{
+    display: flex;
+}
+
+.btn-default {
+    color: #999; 
+    background: #fffccc; 
+}
+.container_text-center{
+    background-image: url("../img2/bg.jpg");
+    height: 400px;
+    background-size: contain;
+}
